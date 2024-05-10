@@ -18,4 +18,12 @@ La cola predeterminada se llama fx y se usa así: elemento.queue('fx');
 
 Muestra u oculta los elementos emparecidos.
 
+### each()
+
+Es un iterario que ejecuta cada uno de los elementos del DOM.
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/d11b942e-c86b-4518-a6f7-9262e7e62f2e)
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/1a7579c1-266f-44b4-8c53-ff2d277cdca6)
+
 
