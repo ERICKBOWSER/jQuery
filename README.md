@@ -4,6 +4,13 @@
 
 El método on() no acepta como primer argumento hover.
 
+. . .
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/24c5f1e9-c9d9-4664-99f9-d12fd1638d9f)
+
+. . .
+
+
 ## Métodos 
 
 ### queue()
