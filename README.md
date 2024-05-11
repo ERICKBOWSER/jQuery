@@ -26,4 +26,23 @@ Es un iterario que ejecuta cada uno de los elementos del DOM.
 
 ![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/1a7579c1-266f-44b4-8c53-ff2d277cdca6)
 
+### data()
+
+Almacena valores como clave:valor
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/97d2ce0e-ca22-435d-8c6e-3435bd2bf312)
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/a4abe477-93cd-4533-9c5c-ef66d5f9b4f1)
+
+### attr()
+
+El método permite modificar los atributos del elemento que se este modificando
+
+### removeAttr()
+
+Elimina atributos del elemento
+
+
+
+
 
