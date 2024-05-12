@@ -49,6 +49,15 @@ El método permite modificar los atributos del elemento que se este modificando
 
 Elimina atributos del elemento
 
+### bind()
+
+Permite conectar varios manejadores de eventos y añadir una función espefica que se ejecutará con cada uno de los manejadores.
+
+En este ejemplo la función se ejecuta en cada evento como el click, mouseenter o mouseleave que se produzca.
+
+![imagen](https://github.com/ERICKBOWSER/jQuery/assets/92431188/5a8e5f44-7e49-4d6a-a22f-e6e12c3f3b7f)
+
+
 
 
 
