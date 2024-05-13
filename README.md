@@ -82,6 +82,10 @@ Oculta los elementos.
 
 Muestra los elementos.
 
+### siblings()
+
+Devuelve todos los elementos hermanos  del elemento seleccionado.
+
 
 
 
